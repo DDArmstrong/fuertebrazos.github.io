@@ -1,10 +1,6 @@
 ---
-title: This is a sample project!!!
+title: BFFs of the power elite
 gdoc: https://docs.google.com/document/d/13yy-y41bG8QqqBYtfPm8FmaTJyark9oDQp_-YucbK8c/edit?usp=sharing
 ---
 
-{{> page_header}}
-
-{{{processed_content}}}
-
-{{> copyright-footer}}
+  {{{processed_content}}}
