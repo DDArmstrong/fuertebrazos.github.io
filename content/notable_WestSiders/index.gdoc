@@ -1,6 +1,10 @@
 ---
-title: Eat your heart out, Hollywood
+title: The Upper Upper West Side Map of the Stars
 gdoc: https://docs.google.com/document/d/1KEZg7iGHXsZXovXVbhH-AaiIvye_UXK-YjiGogqbVBs/edit?usp=sharing
 ---
 
-  {{{processed_content}}}
+{{> page_header }}
+
+{{{processed_content}}}
+
+{{> page_footer }}
